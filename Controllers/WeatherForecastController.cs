@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace TeamCityWithGitHub.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("[controller]/[action]")]
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]
@@ -28,5 +28,11 @@ public class WeatherForecastController : ControllerBase
             Summary = Summaries[Random.Shared.Next(Summaries.Length)]
         })
         .ToArray();
+    }
+
+    [HttpGet(Name = "HelloWorld")]
+    public string HelloWorld()
+    {
+        return "Hello World!";
     }
 }
