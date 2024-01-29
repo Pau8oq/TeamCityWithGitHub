@@ -1,4 +1,4 @@
-namespace TeamCityWithGitHub;
+namespace TeamCityWithGitHub_123;
 
 public class WeatherForecast
 {
