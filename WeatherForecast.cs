@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace TeamCityWithGitHub_123;
+namespace TeamCityWithGitHub;
 
 public class WeatherForecast
 {
