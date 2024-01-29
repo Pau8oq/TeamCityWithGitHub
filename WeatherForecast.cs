@@ -1,5 +1,6 @@
 using System.Text.Json;
 using Microsoft.OpenApi.Interfaces;
+using System.Runtime.CompilerServices;
 
 namespace TeamCityWithGitHub;
 
