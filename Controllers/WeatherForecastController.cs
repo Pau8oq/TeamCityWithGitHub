@@ -35,10 +35,4 @@ public class WeatherForecastController : ControllerBase
     {
         return "Hello World!";
     }
-
-    [HttpGet(Name = "Revert")]
-    public string TestRevert()
-    {
-        return "test revert!";
-    }
 }
