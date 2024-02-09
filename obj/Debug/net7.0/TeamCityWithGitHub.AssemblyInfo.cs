@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeamCityWithGitHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b864636bcb6f70e1612b5e23e63e12346bce6a4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+102748d047b19fa0bd43c333026f0db1b7efca3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeamCityWithGitHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeamCityWithGitHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
