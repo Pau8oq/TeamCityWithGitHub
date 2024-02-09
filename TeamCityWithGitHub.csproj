@@ -12,7 +12,7 @@
   </ItemGroup>
 
 	<ItemGroup>
-		<InternalsVisibleTo Include="TeamCityWithGitHub.Test"/>
+		<InternalsVisibleTo Include="TeamCityWithGitHub.Test" />
 	</ItemGroup>
 
 </Project>
